@@ -42,7 +42,7 @@ A seasoned software engineer with a decade of experience. I don't just write cod
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flasapp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flasapp&layout=compact&theme=tokyonight&langs_count=6&hide=css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flasapp&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" />
 </p>
 
 ---
@@ -53,9 +53,12 @@ A seasoned software engineer with a decade of experience. I don't just write cod
 ---
 
 ## 📫 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/flavio-sacco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:tu-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/flavio-sacco-5828b8144/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
