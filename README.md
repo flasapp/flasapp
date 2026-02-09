@@ -58,7 +58,7 @@ A seasoned software engineer with a decade of experience. I don't just write cod
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/flavio-sacco-5828b8144/" target="_blank">
+  <a href="https://www.linkedin.com/in/flavio-sacco/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tu-email@gmail.com">
